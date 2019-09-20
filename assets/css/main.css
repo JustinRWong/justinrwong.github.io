@@ -3594,8 +3594,9 @@ input, select, textarea {
 
 /* Main */
 
+	/*Main color for background of pages*/
 	#main {
-		background-color: #2a2f4a;
+		background-color: #464e7b;
 	}
 
 		#main > * {
