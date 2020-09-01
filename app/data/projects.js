@@ -1,42 +1,41 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    link: '/projects/nearestdollar/',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
-    desc: 'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+    title: 'Actionmap',
+    subtitle: 'CS 169A: Software Engineering',
+    link: 'https://actionmap03.herokuapp.com/',
+    image: '/images/projects/actionmap.jpg',
+    date: '2020-08-12',
+    desc: 'ActionMap seeks to provide an integrated, seamless, and shareable platform that makes it easier for voters to connect with the progressive community while at the same time enabling progressive organizations, candidates, and elected leaders to reach new activists.'
+      + ' My team and I leveraged the MVC design pattern in Ruby on Rail to design and implement the Representative, News Articles, Issues, and Ratings models and controllers. Additionally, we integrated with Google Civic Information API, whlie rendering a Counties Map.'
+      + ' Following test-driven development and standard git standards, we familiarized ourselves with Agile software engineering tools and behaviors, including a scrum board, travis CI, heroku, sprint planning, codecov, git, and database management.'
   }, {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
-    desc: 'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+    title: 'Pintos OS Extensions',
+    subtitle: 'CS 162: Opreating Systems',
+    link: 'https://inst.eecs.berkeley.edu/~cs162/su20/',
+    image: '/images/projects/pintosOS.jpg',
+    date: '2020-06-18 through 2020-08-14 ',
+    desc: 'A university group project involving the extension of a simple OS named ‘Pintos’. '
+      + 'Tasks included the ability to run user programs, extending the system with threads, scheduling multiple threads efficiently, a buffer cache with extensible files, subdirectories, and virtual memory. '
+      + 'The project placed emphasis on concurrency (implementing OS-level semaphores), debugging large systems and memory management.',
   }, {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
-    desc: 'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
+    title: 'Database System',
+    subtitle: 'Java • Selinger Optimisation • SQL • Relational Algebra',
+    link: 'https://cs186berkeley.net/',
+    image: '/images/projects/dbms.png',
+    date: '2019-08-28 through 2019-12-10',
+    desc: 'As part of CS 186: Databases, I built a fully functional, optimized relational database throughout the semseter. '
+      + 'First, I started building a SQL parser. Then, I implemented B+ Trees using an index system. '
+      + 'After, I logic for joins operations, such as partial, inner, outer, and equi-joins. '
+      + 'Finally, I translated incoming queries into relational algebra and performed Selingere optimization to find the most efficient way to compute the query results, given the sizes and clustering of each data set. '
       + 'You can email me for a copy.',
   }, {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    link: '/project/catdetector/',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
-    desc: 'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-     + 'Over 60,000 cats were classified before server bills made the project too expensive '
-     + 'to continue hosting.',
+    title: 'Older Projects',
+    subtitle: 'Will soon be updated',
+    link: 'https://github.com/JustinRWong?tab=repositories',
+    image: '/images/projects/sfpano.png',
+    date: '---',
+    desc: 'Coming soon',
   },
 ];
 

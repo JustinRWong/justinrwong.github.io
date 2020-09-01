@@ -5,12 +5,27 @@ const data = {
   },
   countries: {
     label: 'Countries visited',
-    value: 53,
-    link: 'https://www.google.com/maps/d/embed?mid=1iBBTscqateQ93pWFVfHCUZXoDu8&z=2',
+    value: 7,
+    link: 'https://www.google.com/maps/d/u/0/embed?mid=1XE1SBzkXLRW06c7jA8Pf5h3xXEquB-VB',
   },
   location: {
     label: 'Current city',
-    value: 'New York, NY',
+    value: 'San Francisco, CA',
+  },
+  bench: {
+    label: 'Max bench press',
+    value: '240lbs',
+    link: '',
+  },
+  squat: {
+    label: 'Max squat',
+    value: '440lbs',
+    link: '',
+  },
+  deadlift: {
+    label: 'Max deeadlift',
+    value: '465lbs',
+    link: '',
   },
 };
 
