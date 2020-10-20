@@ -8,7 +8,7 @@ const pages = [
   {
     route: '/',
     title: 'Justin R. Wong',
-    heading: 'ABOUT THIS SITE',
+    heading: 'WELCOME TO MY PERSONAL WEBSITE',
   },
   {
     route: '/about',
