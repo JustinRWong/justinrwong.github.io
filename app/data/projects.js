@@ -8,7 +8,7 @@ const data = [
     date: '2020-08-12',
     desc: 'ActionMap seeks to provide an integrated, seamless, and shareable platform that makes it easier for voters to connect with the progressive community while at the same time enabling progressive organizations, candidates, and elected leaders to reach new activists.'
       + ' My team and I leveraged the MVC design pattern in Ruby on Rail to design and implement the Representative, News Articles, Issues, and Ratings models and controllers. Additionally, we integrated with Google Civic Information API, whlie rendering a Counties Map.'
-      + ' Following test-driven development and standard git standards, we familiarized ourselves with Agile software engineering tools and behaviors, including a scrum board, travis CI, heroku, sprint planning, codecov, git, and database management.'
+      + ' Following test-driven development and standard git standards, we familiarized ourselves with Agile software engineering tools and behaviors, including a scrum board, travis CI, heroku, sprint planning, codecov, git, and database management.',
   }, {
     title: 'Pintos OS Extensions',
     subtitle: 'CS 162: Opreating Systems',

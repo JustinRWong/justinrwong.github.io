@@ -22,10 +22,16 @@ const Nav = () => (
       <h2>About</h2>
       <p>Hey there! I&apos;m Justin. I loving learning about new technology.
         I am a <a href="https://eecs.berkeley.edu/academics/undergraduate/cs-ba">UC Berkeley</a> fourth year undergrad,
-        majoring in Computer Science and minoring in Energy and Resources. I also completed the <a href="https://scet.berkeley.edu/">SCET's</a> Certificate in Entrepreneurship and Technology.
-        I am currently seeking meaningful, high-impact full-time opportunities in Software Engineering, Machine Learning. Previously, I have been involved
-        at <a href="https://www.tesla.com/">Tesla</a>, <a href="https://scet.berkeley.edu/"> Sutardja Center for Entrepreneurship & Technology</a>, <a href="https://xcelerator.berkeley.edu/">Berkeley Blockchain Xcelerator</a>,
-        <a href="https://engineering.berkeley.edu/"> UC Berkeley College of Engineering</a>,<a href="https://kto.hkbu.edu.hk/bootcamp/"> HKBU</a>, and <a href="https://www.ssf.net/departments/parks-recreation">SSF Parks and Recreation</a>.
+        majoring in Computer Science and minoring in Energy and Resources.
+        I also completed the <a href="https://scet.berkeley.edu/">SCET&apos;s</a> Certificate in Entrepreneurship and Technology.
+        I am currently seeking meaningful, high-impact
+        full-time opportunities in Software Engineering, Machine Learning.
+        Previously, I have been involved at <a href="https://www.tesla.com/">Tesla</a>,
+        <a href="https://scet.berkeley.edu/"> Sutardja Center for Entrepreneurship & Technology</a>,
+        <a href="https://xcelerator.berkeley.edu/">Berkeley Blockchain Xcelerator</a>,
+        <a href="https://engineering.berkeley.edu/"> UC Berkeley College of Engineering</a>,
+        <a href="https://kto.hkbu.edu.hk/bootcamp/"> HKBU</a>, and
+        <a href="https://www.ssf.net/departments/parks-recreation">SSF Parks and Recreation</a>.
       </p>
       <ul className="actions">
         <li>
