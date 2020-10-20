@@ -35,6 +35,6 @@ script:
 - npm test
 notifications:
   email:
-  - michael.l.dangelo@gmail.com
+  - justinryanwong@berkeley.edu
 git:
   depth: 10
